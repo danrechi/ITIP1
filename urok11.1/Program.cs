@@ -10,6 +10,8 @@ namespace urok11._1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sdasd");
+            Console.WriteLine("sdasda");
         }
     }
 }
